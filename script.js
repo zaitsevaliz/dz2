@@ -53,3 +53,28 @@ class ProductItem {
 }
 
 let list = new ProductList();
+
+class Basket {
+    //добавить товар
+    addGood() {
+
+    }
+    //удалить товар
+    removeGood() {
+
+    }
+    //изменить товар
+    changeGood() {
+
+    }
+    //вывод товаров
+    render() {
+
+    }
+}
+class ElementBasket {
+    //вывести товар, верстка товаров
+    render() {
+
+    }
+}
